@@ -1,0 +1,7 @@
+venv/
+
+# IDE
+.idea/
+
+# Docs
+docs/_build/
