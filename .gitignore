@@ -2,6 +2,7 @@ venv/
 
 # IDE
 .idea/
+src/__pycache__
 
 # Docs
 docs/_build/
